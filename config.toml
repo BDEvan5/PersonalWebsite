@@ -6,7 +6,7 @@ enableRobotsTXT = true
 
 [params]
 	# favicon = "/images/fav.png"
-	home_title = "Hi, I'am Benjamin Evans"
+	home_title = "Hi, I'm Benjamin Evans"
 	home_subtitle = "Machine learning researcher"
 	home_description = "I am interested in how the world works"
 	github = "https://github.com/BDEvan5"
