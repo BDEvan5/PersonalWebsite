@@ -34,11 +34,12 @@ Finally, the hybrid architectures for obstacle avoidance demonstrate that DRL ag
 
 In the work, I made three contributions of:
 1. The development of learning formulations
-for high-speed racing through a comprehensive evaluation of current methods, identification of current limitations, and development of new learning formulations that
-harness vehicle models to aid the training.
+for high-speed racing through a comprehensive evaluation of current methods, identification of current limitations, and development of new learning formulations that harness vehicle models to aid the training.
+
 2. The development of a supervisor that can ensure vehicle
 safety and be used to train DRL agents without them ever crashing, enabling agents
 to be trained online physical vehicles, thus bypassing the sim-to-real gap
+
 3. The extension of the racing problem to include avoiding
 un-mapped obstacles on the track and investigating how the flexibility of DRL agents
 can be combined with classical solutions for high-performance obstacle avoidance.
