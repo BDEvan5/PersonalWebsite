@@ -34,4 +34,6 @@ My engineering research is focused on autonomous software stacks for F1Tenth rac
 My PhD titled, "Accelerating deep reinforcement learning for autonomous racing", studied how current learnign formulations for racing can be improved.
 I am interested in autonomous systems, machine learning (especially reinforcement learning), perception, planning and control architectures and robot safety.
 
+## Curriculum Vitae
 
+You can download my current CV (November 2022) [here](BenjaminEvansCV.pdf).
