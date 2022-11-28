@@ -1,2 +1,9 @@
 
 public/
+themes/alexa-portfolio/website/
+themes/alexa-portfolio.LICENSE
+themes/alexa-portfolio.README.md
+
+.DS_Store
+themes/alexa-portfolio/LICENSE
+*.md
