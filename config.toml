@@ -1,6 +1,8 @@
 baseURL = "https://bd-evans.com/"
 languageCode = "en-uk"
 title = "Benjamin Evans"
+content="I am enthusiastic"
+
 theme = "alexa-portfolio"
 enableRobotsTXT = true
 
