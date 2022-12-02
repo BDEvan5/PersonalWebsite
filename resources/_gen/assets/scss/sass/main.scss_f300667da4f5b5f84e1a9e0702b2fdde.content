@@ -487,6 +487,19 @@ a.c-tags__label:hover {
 .lead + .c-tags {
   margin-top: -1.6rem; }
 
+.home__img {
+  width: 100%;
+  border-radius: 50%;
+  height: 25rem;
+  overflow: clip;
+  display: inline-flex;
+  justify-content: center; }
+  .home__img img {
+    height: 100%;
+    transition: height ease-out 1s; }
+  .home__img img:hover {
+    height: 150%; }
+
 :root {
   --header-height: 3rem;
   /*========== Colors ==========*/
